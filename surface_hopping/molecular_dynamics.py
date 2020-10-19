@@ -4,8 +4,8 @@ import sys
 import autograd.numpy as np
 from scipy.integrate import solve_ivp
 
-from .get_potential import get_gradients_and_nadvec
-from .input_pes import nel, mass
+from surface_hopping.get_potential import get_gradients_and_nadvec
+from surface_hopping.input_pes import nel, mass
 
 hbar = 1.0
 

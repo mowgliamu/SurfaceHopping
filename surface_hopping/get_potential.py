@@ -1,5 +1,5 @@
-from .input_pes import all_diabats, all_couplings
-from .input_pes import nel
+from surface_hopping.input_pes import all_diabats, all_couplings
+from surface_hopping.input_pes import nel
 import math
 from autograd import grad
 import autograd.numpy as np

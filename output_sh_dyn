@@ -1,0 +1,4008 @@
+
+==========================
+Welcome to HIP-HOP-1D
+A miniature FSSH program
+Author: Prateek Goel
+Aix Marseille University
+==========================
+
+Current cycle 0
+
+Current time 0.0
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 7.253537080672893e-05 0.8275035092538053
+Current cycle 1
+
+Current time 0.2
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.00015051049776042022 0.21932552508481296
+Current cycle 2
+
+Current time 0.4
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0002076613518784099 0.8194806707174068
+Current cycle 3
+
+Current time 0.6000000000000001
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0001600441881738291 0.47303681363962247
+Current cycle 4
+
+Current time 0.8
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 9.528194537388075e-05 0.49790110935028575
+Current cycle 5
+
+Current time 1.0
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 4.8083400257586556e-05 0.2450702029991747
+Current cycle 6
+
+Current time 1.2
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.141175277798311e-05 0.757493551466575
+Current cycle 7
+
+Current time 1.4
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 8.586664129282034e-06 0.25705964332675546
+Current cycle 8
+
+Current time 1.5999999999999999
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.134182196067912e-06 0.33467657218235436
+Current cycle 9
+
+Current time 1.7999999999999998
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.0468649338519714e-06 0.6814173974235561
+Current cycle 10
+
+Current time 1.9999999999999998
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.211403768898714e-07 0.16605974258753253
+Current cycle 11
+
+Current time 2.1999999999999997
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 9.060708281106231e-08 0.0030193004126025658
+Current cycle 12
+
+Current time 2.4
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.3526627796192104e-08 0.015401422657825292
+Current cycle 13
+
+Current time 2.6
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 5.62379613343098e-09 0.7324896489891844
+Current cycle 14
+
+Current time 2.8000000000000003
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.2378598784169074e-09 0.6735758766382918
+Current cycle 15
+
+Current time 3.0000000000000004
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.509394935180096e-10 0.21923299529739915
+Current cycle 16
+
+Current time 3.2000000000000006
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 4.6859478889340757e-11 0.42030310854575836
+Current cycle 17
+
+Current time 3.400000000000001
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 8.061678255261725e-12 0.6254044177515794
+Current cycle 18
+
+Current time 3.600000000000001
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.277956148437193e-12 0.8228788115286413
+Current cycle 19
+
+Current time 3.800000000000001
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.8669221340813922e-13 0.681758573830445
+Current cycle 20
+
+Current time 4.000000000000001
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.5136710654826694e-14 0.5548077094708317
+Current cycle 21
+
+Current time 4.200000000000001
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.119680166740465e-15 0.6142018547772085
+Current cycle 22
+
+Current time 4.400000000000001
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.5692283111476155e-16 0.7975336552071743
+Current cycle 23
+
+Current time 4.600000000000001
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.764787022952779e-17 0.787015703551521
+Current cycle 24
+
+Current time 4.800000000000002
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.6613731802939154e-18 0.24269457187070875
+Current cycle 25
+
+Current time 5.000000000000002
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.2833330529496977e-19 0.8427474959782726
+Current cycle 26
+
+Current time 5.200000000000002
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.7151209679942415e-20 0.06410407447813926
+Current cycle 27
+
+Current time 5.400000000000002
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.070570794374231e-21 0.9301327578499855
+Current cycle 28
+
+Current time 5.600000000000002
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.4562720167469666e-22 0.7537916634230667
+Current cycle 29
+
+Current time 5.8000000000000025
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 9.446464758134204e-24 0.7368246441800689
+Current cycle 30
+
+Current time 6.000000000000003
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 5.651860464433898e-25 0.24089503043280192
+Current cycle 31
+
+Current time 6.200000000000003
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.119091290964082e-26 0.5340308457869399
+Current cycle 32
+
+Current time 6.400000000000003
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.5878045450452974e-27 0.9439538231533345
+Current cycle 33
+
+Current time 6.600000000000003
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 7.456151694124766e-29 0.557487950827292
+Current cycle 34
+
+Current time 6.800000000000003
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.2299538505220684e-30 0.012086853000307873
+Current cycle 35
+
+Current time 7.0000000000000036
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.2907906888215882e-31 0.8676930430584102
+Current cycle 36
+
+Current time 7.200000000000004
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 4.758897344972523e-33 0.4579659427008338
+Current cycle 37
+
+Current time 7.400000000000004
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.6186760155380086e-34 0.13657317520113
+Current cycle 38
+
+Current time 7.600000000000004
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 5.079581249174352e-36 0.43073985023272343
+Current cycle 39
+
+Current time 7.800000000000004
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.4706891366004793e-37 0.9515037856602464
+Current cycle 40
+
+Current time 8.000000000000004
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.9286984621827113e-39 0.591564620932847
+Current cycle 41
+
+Current time 8.200000000000003
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 9.683235199461984e-41 0.926137962503963
+Current cycle 42
+
+Current time 8.400000000000002
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.202139874056418e-42 0.7605346080138407
+Current cycle 43
+
+Current time 8.600000000000001
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 4.620937323231283e-44 0.6490873471415404
+Current cycle 44
+
+Current time 8.8
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 8.94712807686194e-46 0.4819176325376886
+Current cycle 45
+
+Current time 9.0
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.59850023453742e-47 0.7820680165691025
+Current cycle 46
+
+Current time 9.2
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.6352632416664503e-49 0.6458341658826425
+Current cycle 47
+
+Current time 9.399999999999999
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 4.008887710267851e-51 0.3012720960169082
+Current cycle 48
+
+Current time 9.599999999999998
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 5.627537117231138e-53 0.769728344610234
+Current cycle 49
+
+Current time 9.799999999999997
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 7.289757873396145e-55 0.567725555973268
+Current cycle 50
+
+Current time 9.999999999999996
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 8.713916811072679e-57 0.4215256287794886
+Current cycle 51
+
+Current time 10.199999999999996
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 9.612236576877689e-59 0.9931977097959446
+Current cycle 52
+
+Current time 10.399999999999995
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 9.784778326369457e-61 0.17918565567132339
+Current cycle 53
+
+Current time 10.599999999999994
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 9.191736764474632e-63 0.0973596595355053
+Current cycle 54
+
+Current time 10.799999999999994
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 7.968352074986847e-65 0.7453657251004098
+Current cycle 55
+
+Current time 10.999999999999993
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 6.374820710562973e-67 0.6933292209901692
+Current cycle 56
+
+Current time 11.199999999999992
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 4.706518938530133e-69 0.4569971706706284
+Current cycle 57
+
+Current time 11.399999999999991
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.2067702108546833e-71 0.7106224080358268
+Current cycle 58
+
+Current time 11.59999999999999
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.0163945547103544e-73 0.532423564885585
+Current cycle 59
+
+Current time 11.79999999999999
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.1701089394509714e-75 0.09234780090419836
+Current cycle 60
+
+Current time 11.99999999999999
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 6.2664748198131845e-78 0.9344448230650484
+Current cycle 61
+
+Current time 12.199999999999989
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.0972030681902618e-80 0.49187433050049256
+Current cycle 62
+
+Current time 12.399999999999988
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.4127599606015812e-82 0.47575719005331496
+Current cycle 63
+
+Current time 12.599999999999987
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 5.94733238184276e-85 0.41971994390186107
+Current cycle 64
+
+Current time 12.799999999999986
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.310648224535962e-87 0.6185598414507101
+Current cycle 65
+
+Current time 12.999999999999986
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 8.28525430499071e-90 0.08136492515210603
+Current cycle 66
+
+Current time 13.199999999999985
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.741831022866686e-92 0.8723813514505926
+Current cycle 67
+
+Current time 13.399999999999984
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 8.37415013735215e-95 0.1702194666080894
+Current cycle 68
+
+Current time 13.599999999999984
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.360523160436555e-97 0.5758067835859039
+Current cycle 69
+
+Current time 13.799999999999983
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 6.141089790927602e-100 0.37454392629465916
+Current cycle 70
+
+Current time 13.999999999999982
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.474532441250421e-102 0.46308810804343015
+Current cycle 71
+
+Current time 14.199999999999982
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.267660720327703e-105 0.6146841399882124
+Current cycle 72
+
+Current time 14.39999999999998
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 6.683366027437059e-108 0.07860371556253631
+Current cycle 73
+
+Current time 14.59999999999998
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.261627211659291e-110 0.553184861745652
+Current cycle 74
+
+Current time 14.79999999999998
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.1980931816490118e-113 0.5457670704742958
+Current cycle 75
+
+Current time 14.999999999999979
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.534615601839626e-116 0.25875934293100844
+Current cycle 76
+
+Current time 15.199999999999978
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 5.245910659740791e-119 0.8309708446777024
+Current cycle 77
+
+Current time 15.399999999999977
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 7.185944802439261e-122 0.2527382891055351
+Current cycle 78
+
+Current time 15.599999999999977
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 9.085160760353545e-125 0.9398307683347565
+Current cycle 79
+
+Current time 15.799999999999976
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.060153022993127e-127 0.6762103701610777
+Current cycle 80
+
+Current time 15.999999999999975
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.1418083368587143e-130 0.7277299183438606
+Current cycle 81
+
+Current time 16.199999999999974
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.135031457943651e-133 0.8867679141645098
+Current cycle 82
+
+Current time 16.399999999999974
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.0413911816567806e-136 0.6703300044318656
+Current cycle 83
+
+Current time 16.599999999999973
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 8.81886113210162e-140 0.2974410018543534
+Current cycle 84
+
+Current time 16.799999999999972
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 6.892948434790093e-143 0.38581046684885
+Current cycle 85
+
+Current time 16.99999999999997
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 4.972703624115018e-146 0.19765062001592226
+Current cycle 86
+
+Current time 17.19999999999997
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.3111306625933178e-149 0.26420584526460944
+Current cycle 87
+
+Current time 17.39999999999997
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.0349671725358177e-152 0.29089790948858785
+Current cycle 88
+
+Current time 17.59999999999997
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.1543484488290109e-155 0.6828635727670281
+Current cycle 89
+
+Current time 17.79999999999997
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 6.04387995891328e-159 0.4932495234475861
+Current cycle 90
+
+Current time 17.999999999999968
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.9207553555937595e-162 0.9434419352519128
+Current cycle 91
+
+Current time 18.199999999999967
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.3027946323539857e-165 0.4813173853885929
+Current cycle 92
+
+Current time 18.399999999999967
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 5.363634425427276e-169 0.6704183446602346
+Current cycle 93
+
+Current time 18.599999999999966
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.03819430637188e-172 0.9125246050509985
+Current cycle 94
+
+Current time 18.799999999999965
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 7.148850130443393e-176 0.6096886722007095
+Current cycle 95
+
+Current time 18.999999999999964
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.314364585192222e-179 0.9765078529129838
+Current cycle 96
+
+Current time 19.199999999999964
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 6.915654861312534e-183 0.2680928589617607
+Current cycle 97
+
+Current time 19.399999999999963
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.907398641756926e-186 0.13407784722714344
+Current cycle 98
+
+Current time 19.599999999999962
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 4.855758249380663e-190 0.9489622206975832
+Current cycle 99
+
+Current time 19.79999999999996
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.1409872264791087e-193 0.1118831248653549
+Current cycle 100
+
+Current time 19.99999999999996
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.4746483644462627e-197 0.984204647315026
+Current cycle 101
+
+Current time 20.19999999999996
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 4.953998519175695e-201 0.6895036795766244
+Current cycle 102
+
+Current time 20.39999999999996
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 9.153951536030353e-205 0.04469899391644194
+Current cycle 103
+
+Current time 20.59999999999996
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.5612496672059602e-208 0.13946775422167546
+Current cycle 104
+
+Current time 20.799999999999958
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.457807027428947e-212 0.2722442992578087
+Current cycle 105
+
+Current time 20.999999999999957
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.571375583055527e-216 0.18060202917678125
+Current cycle 106
+
+Current time 21.199999999999957
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 4.790007277083741e-220 0.8304727720713373
+Current cycle 107
+
+Current time 21.399999999999956
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 5.929939904442046e-224 0.3098751647692838
+Current cycle 108
+
+Current time 21.599999999999955
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 6.776080727743045e-228 0.8727783711922249
+Current cycle 109
+
+Current time 21.799999999999955
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 7.146962418742698e-232 0.6037855533856303
+Current cycle 110
+
+Current time 21.999999999999954
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 6.957923321953716e-236 0.8229956942965996
+Current cycle 111
+
+Current time 22.199999999999953
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 6.252497717985888e-240 0.563558459347184
+Current cycle 112
+
+Current time 22.399999999999952
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 5.186133565540368e-244 0.7012619417666945
+Current cycle 113
+
+Current time 22.59999999999995
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.970550092375613e-248 0.15854782388435307
+Current cycle 114
+
+Current time 22.79999999999995
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.8059174714834538e-252 0.48153031666134527
+Current cycle 115
+
+Current time 22.99999999999995
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.8302768637675584e-256 0.6246439678478091
+Current cycle 116
+
+Current time 23.19999999999995
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.1019882226063483e-260 0.35864864211808156
+Current cycle 117
+
+Current time 23.39999999999995
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 6.124290053606135e-265 0.4460143590874285
+Current cycle 118
+
+Current time 23.599999999999948
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.1416203168401055e-269 0.855657723562197
+Current cycle 119
+
+Current time 23.799999999999947
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.4875483535211477e-273 0.011903118599114637
+Current cycle 120
+
+Current time 23.999999999999947
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 6.50142443301243e-278 0.15925948288559855
+Current cycle 121
+
+Current time 24.199999999999946
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.6228062457728072e-282 0.20714135870835215
+Current cycle 122
+
+Current time 24.399999999999945
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 9.766629851956874e-287 0.09963116290921048
+Current cycle 123
+
+Current time 24.599999999999945
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.356945423989048e-291 0.81932878034983
+Current cycle 124
+
+Current time 24.799999999999944
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.0650386438462925e-295 0.36176443587134255
+Current cycle 125
+
+Current time 24.999999999999943
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 3.118949526119625e-300 0.6544378839275302
+Current cycle 126
+
+Current time 25.199999999999942
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 8.430891460832606e-305 0.9866588809966561
+Current cycle 127
+
+Current time 25.39999999999994
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 2.103590704124515e-309 0.42782659395774036
+Current cycle 128
+
+Current time 25.59999999999994
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 4.844755217e-314 0.6672064927951815
+Current cycle 129
+
+Current time 25.79999999999994
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 1.02991e-318 0.9920860932770492
+Current cycle 130
+
+Current time 25.99999999999994
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.47858383597183973
+Current cycle 131
+
+Current time 26.19999999999994
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5047402778198339
+Current cycle 132
+
+Current time 26.399999999999938
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8922938427758779
+Current cycle 133
+
+Current time 26.599999999999937
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.34423011044348784
+Current cycle 134
+
+Current time 26.799999999999937
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8225122256384492
+Current cycle 135
+
+Current time 26.999999999999936
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6231859944821025
+Current cycle 136
+
+Current time 27.199999999999935
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5612718281669473
+Current cycle 137
+
+Current time 27.399999999999935
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5071777531331337
+Current cycle 138
+
+Current time 27.599999999999934
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4644582383650374
+Current cycle 139
+
+Current time 27.799999999999933
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9645110142575611
+Current cycle 140
+
+Current time 27.999999999999932
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9127367609829724
+Current cycle 141
+
+Current time 28.199999999999932
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.23550486035000984
+Current cycle 142
+
+Current time 28.39999999999993
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.06851682925407543
+Current cycle 143
+
+Current time 28.59999999999993
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.28724951166054646
+Current cycle 144
+
+Current time 28.79999999999993
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3619433161131064
+Current cycle 145
+
+Current time 28.99999999999993
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4969144822108239
+Current cycle 146
+
+Current time 29.19999999999993
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.884585142054499
+Current cycle 147
+
+Current time 29.399999999999928
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9158829483579268
+Current cycle 148
+
+Current time 29.599999999999927
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3357671642064003
+Current cycle 149
+
+Current time 29.799999999999926
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.10457448566261962
+Current cycle 150
+
+Current time 29.999999999999925
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6481540561117215
+Current cycle 151
+
+Current time 30.199999999999925
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5310630590031538
+Current cycle 152
+
+Current time 30.399999999999924
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.788925156403996
+Current cycle 153
+
+Current time 30.599999999999923
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.44492742506775695
+Current cycle 154
+
+Current time 30.799999999999923
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.27835620788503557
+Current cycle 155
+
+Current time 30.999999999999922
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5609520732202766
+Current cycle 156
+
+Current time 31.19999999999992
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9056037189898276
+Current cycle 157
+
+Current time 31.39999999999992
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.10384004925037182
+Current cycle 158
+
+Current time 31.59999999999992
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3200115481817998
+Current cycle 159
+
+Current time 31.79999999999992
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5416480570998559
+Current cycle 160
+
+Current time 31.99999999999992
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8490681637864933
+Current cycle 161
+
+Current time 32.19999999999992
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9409064677333093
+Current cycle 162
+
+Current time 32.39999999999992
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8392616392600163
+Current cycle 163
+
+Current time 32.59999999999992
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3058509031717659
+Current cycle 164
+
+Current time 32.799999999999926
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.93565523874956
+Current cycle 165
+
+Current time 32.99999999999993
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.49812300108555263
+Current cycle 166
+
+Current time 33.19999999999993
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8736971193109615
+Current cycle 167
+
+Current time 33.399999999999935
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7875343922021545
+Current cycle 168
+
+Current time 33.59999999999994
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.36254860001811273
+Current cycle 169
+
+Current time 33.79999999999994
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.2472694033852696
+Current cycle 170
+
+Current time 33.99999999999994
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.10959038631425178
+Current cycle 171
+
+Current time 34.199999999999946
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.17839837901172306
+Current cycle 172
+
+Current time 34.39999999999995
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.1359497914714246
+Current cycle 173
+
+Current time 34.59999999999995
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8452621419871453
+Current cycle 174
+
+Current time 34.799999999999955
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.16589841430915597
+Current cycle 175
+
+Current time 34.99999999999996
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3745136233481575
+Current cycle 176
+
+Current time 35.19999999999996
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4788188434623828
+Current cycle 177
+
+Current time 35.39999999999996
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.32486707374210855
+Current cycle 178
+
+Current time 35.599999999999966
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5513591226538216
+Current cycle 179
+
+Current time 35.79999999999997
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7465160246302874
+Current cycle 180
+
+Current time 35.99999999999997
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.37019767138044524
+Current cycle 181
+
+Current time 36.199999999999974
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9588116702332076
+Current cycle 182
+
+Current time 36.39999999999998
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9348388762196382
+Current cycle 183
+
+Current time 36.59999999999998
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.2375399493090219
+Current cycle 184
+
+Current time 36.79999999999998
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.2178664717775758
+Current cycle 185
+
+Current time 36.999999999999986
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7382311162874894
+Current cycle 186
+
+Current time 37.19999999999999
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.19579164575487906
+Current cycle 187
+
+Current time 37.39999999999999
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8543393370625172
+Current cycle 188
+
+Current time 37.599999999999994
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.10190242697790919
+Current cycle 189
+
+Current time 37.8
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.0869834105819739
+Current cycle 190
+
+Current time 38.0
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.671283570198574
+Current cycle 191
+
+Current time 38.2
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.18462043151970287
+Current cycle 192
+
+Current time 38.400000000000006
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.883315838368816
+Current cycle 193
+
+Current time 38.60000000000001
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5760065570966832
+Current cycle 194
+
+Current time 38.80000000000001
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4061806324007189
+Current cycle 195
+
+Current time 39.000000000000014
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7420597723651726
+Current cycle 196
+
+Current time 39.20000000000002
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.0637007740541059
+Current cycle 197
+
+Current time 39.40000000000002
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6871283664617654
+Current cycle 198
+
+Current time 39.60000000000002
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.14270948452352294
+Current cycle 199
+
+Current time 39.800000000000026
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5879504416262525
+Current cycle 200
+
+Current time 40.00000000000003
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3220318879353463
+Current cycle 201
+
+Current time 40.20000000000003
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.036192250299520334
+Current cycle 202
+
+Current time 40.400000000000034
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7619098340279798
+Current cycle 203
+
+Current time 40.60000000000004
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.0162208442648768
+Current cycle 204
+
+Current time 40.80000000000004
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8315212508471135
+Current cycle 205
+
+Current time 41.00000000000004
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.843096223271691
+Current cycle 206
+
+Current time 41.200000000000045
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5360023782379871
+Current cycle 207
+
+Current time 41.40000000000005
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5804407693521734
+Current cycle 208
+
+Current time 41.60000000000005
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6942819372485631
+Current cycle 209
+
+Current time 41.800000000000054
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.37823169463609374
+Current cycle 210
+
+Current time 42.00000000000006
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.2244407106805162
+Current cycle 211
+
+Current time 42.20000000000006
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7044500815770618
+Current cycle 212
+
+Current time 42.40000000000006
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7732627456943633
+Current cycle 213
+
+Current time 42.600000000000065
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7390618789502554
+Current cycle 214
+
+Current time 42.80000000000007
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4695923628924834
+Current cycle 215
+
+Current time 43.00000000000007
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.25448228611034784
+Current cycle 216
+
+Current time 43.200000000000074
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7878820095770376
+Current cycle 217
+
+Current time 43.40000000000008
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9559641217850638
+Current cycle 218
+
+Current time 43.60000000000008
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.966468070569758
+Current cycle 219
+
+Current time 43.80000000000008
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5456762405120928
+Current cycle 220
+
+Current time 44.000000000000085
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7952901051176271
+Current cycle 221
+
+Current time 44.20000000000009
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.20132386450279272
+Current cycle 222
+
+Current time 44.40000000000009
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6588169434056642
+Current cycle 223
+
+Current time 44.600000000000094
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.537642569385626
+Current cycle 224
+
+Current time 44.8000000000001
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.12807439607858373
+Current cycle 225
+
+Current time 45.0000000000001
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.42647714533832637
+Current cycle 226
+
+Current time 45.2000000000001
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6900349523858125
+Current cycle 227
+
+Current time 45.400000000000105
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8204225599213849
+Current cycle 228
+
+Current time 45.60000000000011
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.02720320508130769
+Current cycle 229
+
+Current time 45.80000000000011
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7205566425751236
+Current cycle 230
+
+Current time 46.000000000000114
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7107201182245739
+Current cycle 231
+
+Current time 46.20000000000012
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.800344391605438
+Current cycle 232
+
+Current time 46.40000000000012
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.33935942250935336
+Current cycle 233
+
+Current time 46.60000000000012
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.19849444575402864
+Current cycle 234
+
+Current time 46.800000000000125
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9859712582225132
+Current cycle 235
+
+Current time 47.00000000000013
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8466683016818124
+Current cycle 236
+
+Current time 47.20000000000013
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6424438948896666
+Current cycle 237
+
+Current time 47.400000000000134
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9782332562412649
+Current cycle 238
+
+Current time 47.600000000000136
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.049020068187699994
+Current cycle 239
+
+Current time 47.80000000000014
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5043661836522568
+Current cycle 240
+
+Current time 48.00000000000014
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.15629330273120912
+Current cycle 241
+
+Current time 48.200000000000145
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.22501819159878456
+Current cycle 242
+
+Current time 48.40000000000015
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.04003423380877569
+Current cycle 243
+
+Current time 48.60000000000015
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.027765582627007346
+Current cycle 244
+
+Current time 48.80000000000015
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6654954596254744
+Current cycle 245
+
+Current time 49.000000000000156
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8967614935601668
+Current cycle 246
+
+Current time 49.20000000000016
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5526711694885686
+Current cycle 247
+
+Current time 49.40000000000016
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4311863084299593
+Current cycle 248
+
+Current time 49.600000000000165
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.26303655138115556
+Current cycle 249
+
+Current time 49.80000000000017
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.13905030074390212
+Current cycle 250
+
+Current time 50.00000000000017
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4303117795437942
+Current cycle 251
+
+Current time 50.20000000000017
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5164664750288186
+Current cycle 252
+
+Current time 50.400000000000176
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.44962467136149475
+Current cycle 253
+
+Current time 50.60000000000018
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.04836175026507139
+Current cycle 254
+
+Current time 50.80000000000018
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3749785939651967
+Current cycle 255
+
+Current time 51.000000000000185
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4692261681999058
+Current cycle 256
+
+Current time 51.20000000000019
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.21690717083005662
+Current cycle 257
+
+Current time 51.40000000000019
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5612360359202381
+Current cycle 258
+
+Current time 51.60000000000019
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.04294641317453818
+Current cycle 259
+
+Current time 51.800000000000196
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.2971925034274434
+Current cycle 260
+
+Current time 52.0000000000002
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5944590371128361
+Current cycle 261
+
+Current time 52.2000000000002
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7985166639661572
+Current cycle 262
+
+Current time 52.400000000000205
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4224373344782344
+Current cycle 263
+
+Current time 52.60000000000021
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.22030314592919342
+Current cycle 264
+
+Current time 52.80000000000021
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.07342835492546351
+Current cycle 265
+
+Current time 53.00000000000021
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.0035742632670955343
+Current cycle 266
+
+Current time 53.200000000000216
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8030475449892355
+Current cycle 267
+
+Current time 53.40000000000022
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.022275884199723373
+Current cycle 268
+
+Current time 53.60000000000022
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9281034687101615
+Current cycle 269
+
+Current time 53.800000000000225
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.13368836200655354
+Current cycle 270
+
+Current time 54.00000000000023
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.38767033666917194
+Current cycle 271
+
+Current time 54.20000000000023
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8057882576658852
+Current cycle 272
+
+Current time 54.40000000000023
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5616797321342744
+Current cycle 273
+
+Current time 54.600000000000236
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.37252720724482613
+Current cycle 274
+
+Current time 54.80000000000024
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7176346780198727
+Current cycle 275
+
+Current time 55.00000000000024
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5918121388729927
+Current cycle 276
+
+Current time 55.200000000000244
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.10272491099212266
+Current cycle 277
+
+Current time 55.40000000000025
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3246730887551852
+Current cycle 278
+
+Current time 55.60000000000025
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8222038970081942
+Current cycle 279
+
+Current time 55.80000000000025
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4752170759500054
+Current cycle 280
+
+Current time 56.000000000000256
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5424958698075744
+Current cycle 281
+
+Current time 56.20000000000026
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8981425759960563
+Current cycle 282
+
+Current time 56.40000000000026
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9172828248135263
+Current cycle 283
+
+Current time 56.600000000000264
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9453294678547428
+Current cycle 284
+
+Current time 56.80000000000027
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8690841984248422
+Current cycle 285
+
+Current time 57.00000000000027
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7374721667552931
+Current cycle 286
+
+Current time 57.20000000000027
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.22146584792116397
+Current cycle 287
+
+Current time 57.400000000000276
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6001030928348631
+Current cycle 288
+
+Current time 57.60000000000028
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7309518028229728
+Current cycle 289
+
+Current time 57.80000000000028
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9462484216186291
+Current cycle 290
+
+Current time 58.000000000000284
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8232677660199196
+Current cycle 291
+
+Current time 58.20000000000029
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4411550317430972
+Current cycle 292
+
+Current time 58.40000000000029
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.1423045032394301
+Current cycle 293
+
+Current time 58.60000000000029
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7600053094981946
+Current cycle 294
+
+Current time 58.800000000000296
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9733059612750398
+Current cycle 295
+
+Current time 59.0000000000003
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3177144741562772
+Current cycle 296
+
+Current time 59.2000000000003
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5687955109219681
+Current cycle 297
+
+Current time 59.400000000000304
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3988895942008581
+Current cycle 298
+
+Current time 59.60000000000031
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7909035644815959
+Current cycle 299
+
+Current time 59.80000000000031
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.36963675573985555
+Current cycle 300
+
+Current time 60.00000000000031
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.623198405089972
+Current cycle 301
+
+Current time 60.200000000000315
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9380300898919175
+Current cycle 302
+
+Current time 60.40000000000032
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8772949666353443
+Current cycle 303
+
+Current time 60.60000000000032
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5920686058217633
+Current cycle 304
+
+Current time 60.800000000000324
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7928291272380376
+Current cycle 305
+
+Current time 61.00000000000033
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.21785577813377732
+Current cycle 306
+
+Current time 61.20000000000033
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4811419543958244
+Current cycle 307
+
+Current time 61.40000000000033
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9740414778646953
+Current cycle 308
+
+Current time 61.600000000000335
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.005624706431958337
+Current cycle 309
+
+Current time 61.80000000000034
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5635823761793545
+Current cycle 310
+
+Current time 62.00000000000034
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.011390525774871096
+Current cycle 311
+
+Current time 62.200000000000344
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8597448597009216
+Current cycle 312
+
+Current time 62.40000000000035
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.36384120542143794
+Current cycle 313
+
+Current time 62.60000000000035
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9571235164487221
+Current cycle 314
+
+Current time 62.80000000000035
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4017404931015276
+Current cycle 315
+
+Current time 63.000000000000355
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7741044201917381
+Current cycle 316
+
+Current time 63.20000000000036
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.465724058442755
+Current cycle 317
+
+Current time 63.40000000000036
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6859601103950468
+Current cycle 318
+
+Current time 63.600000000000364
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7735970038432787
+Current cycle 319
+
+Current time 63.80000000000037
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3547229857834724
+Current cycle 320
+
+Current time 64.00000000000037
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7646269193472874
+Current cycle 321
+
+Current time 64.20000000000037
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7375666940413586
+Current cycle 322
+
+Current time 64.40000000000038
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.25940540220491237
+Current cycle 323
+
+Current time 64.60000000000038
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.05844900182630375
+Current cycle 324
+
+Current time 64.80000000000038
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9806312768032973
+Current cycle 325
+
+Current time 65.00000000000038
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9135700096144377
+Current cycle 326
+
+Current time 65.20000000000039
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.666479356355172
+Current cycle 327
+
+Current time 65.40000000000039
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.05076819872594174
+Current cycle 328
+
+Current time 65.60000000000039
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.010826349384508771
+Current cycle 329
+
+Current time 65.8000000000004
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4865261351644815
+Current cycle 330
+
+Current time 66.0000000000004
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7955792362433391
+Current cycle 331
+
+Current time 66.2000000000004
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.572341127040903
+Current cycle 332
+
+Current time 66.4000000000004
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.22102067374335777
+Current cycle 333
+
+Current time 66.6000000000004
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5449224896759416
+Current cycle 334
+
+Current time 66.80000000000041
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4345477435871532
+Current cycle 335
+
+Current time 67.00000000000041
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3573362967245697
+Current cycle 336
+
+Current time 67.20000000000041
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5421678099516348
+Current cycle 337
+
+Current time 67.40000000000042
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7229254746958388
+Current cycle 338
+
+Current time 67.60000000000042
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.34830027127528596
+Current cycle 339
+
+Current time 67.80000000000042
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.2812214597552699
+Current cycle 340
+
+Current time 68.00000000000043
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.49913728870852103
+Current cycle 341
+
+Current time 68.20000000000043
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7061848108008197
+Current cycle 342
+
+Current time 68.40000000000043
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7619076434732204
+Current cycle 343
+
+Current time 68.60000000000043
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.26784025282687973
+Current cycle 344
+
+Current time 68.80000000000044
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8138297439029831
+Current cycle 345
+
+Current time 69.00000000000044
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6155273038732697
+Current cycle 346
+
+Current time 69.20000000000044
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9675727328214206
+Current cycle 347
+
+Current time 69.40000000000045
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.40148592591333965
+Current cycle 348
+
+Current time 69.60000000000045
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8113088021015071
+Current cycle 349
+
+Current time 69.80000000000045
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.18009530658029638
+Current cycle 350
+
+Current time 70.00000000000045
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6860165528356117
+Current cycle 351
+
+Current time 70.20000000000046
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9333557103374216
+Current cycle 352
+
+Current time 70.40000000000046
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.07696598848177039
+Current cycle 353
+
+Current time 70.60000000000046
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7755148422041523
+Current cycle 354
+
+Current time 70.80000000000047
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.18687260916896853
+Current cycle 355
+
+Current time 71.00000000000047
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6807165788577464
+Current cycle 356
+
+Current time 71.20000000000047
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9107605187961679
+Current cycle 357
+
+Current time 71.40000000000047
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.117008201927841
+Current cycle 358
+
+Current time 71.60000000000048
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.880054848337427
+Current cycle 359
+
+Current time 71.80000000000048
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9177671223075249
+Current cycle 360
+
+Current time 72.00000000000048
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9481988094349928
+Current cycle 361
+
+Current time 72.20000000000049
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8420949946151731
+Current cycle 362
+
+Current time 72.40000000000049
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7860915300393053
+Current cycle 363
+
+Current time 72.60000000000049
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7001266352925812
+Current cycle 364
+
+Current time 72.8000000000005
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6585008062026413
+Current cycle 365
+
+Current time 73.0000000000005
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.49474430138621694
+Current cycle 366
+
+Current time 73.2000000000005
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7443284559080412
+Current cycle 367
+
+Current time 73.4000000000005
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.39396447510797405
+Current cycle 368
+
+Current time 73.6000000000005
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.353835948183171
+Current cycle 369
+
+Current time 73.80000000000051
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3066941065210219
+Current cycle 370
+
+Current time 74.00000000000051
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.32584243569122273
+Current cycle 371
+
+Current time 74.20000000000051
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6081970393001064
+Current cycle 372
+
+Current time 74.40000000000052
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8460937005012585
+Current cycle 373
+
+Current time 74.60000000000052
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6626385623634012
+Current cycle 374
+
+Current time 74.80000000000052
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5761197330732536
+Current cycle 375
+
+Current time 75.00000000000053
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7299840071504495
+Current cycle 376
+
+Current time 75.20000000000053
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.11156159672596011
+Current cycle 377
+
+Current time 75.40000000000053
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8197468708766985
+Current cycle 378
+
+Current time 75.60000000000053
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.18652530337785955
+Current cycle 379
+
+Current time 75.80000000000054
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9682559959094621
+Current cycle 380
+
+Current time 76.00000000000054
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.199459137762517
+Current cycle 381
+
+Current time 76.20000000000054
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.503982701377895
+Current cycle 382
+
+Current time 76.40000000000055
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.10660867718548883
+Current cycle 383
+
+Current time 76.60000000000055
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8238169781129983
+Current cycle 384
+
+Current time 76.80000000000055
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7691374912255816
+Current cycle 385
+
+Current time 77.00000000000055
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.01548287291798689
+Current cycle 386
+
+Current time 77.20000000000056
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5041985922349231
+Current cycle 387
+
+Current time 77.40000000000056
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.10065767272413884
+Current cycle 388
+
+Current time 77.60000000000056
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5034974983622559
+Current cycle 389
+
+Current time 77.80000000000057
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7550088341900094
+Current cycle 390
+
+Current time 78.00000000000057
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5714401877872997
+Current cycle 391
+
+Current time 78.20000000000057
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.14578514936371245
+Current cycle 392
+
+Current time 78.40000000000057
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.549614369531526
+Current cycle 393
+
+Current time 78.60000000000058
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.08675452632181047
+Current cycle 394
+
+Current time 78.80000000000058
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.20295128499471093
+Current cycle 395
+
+Current time 79.00000000000058
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.23156686165607576
+Current cycle 396
+
+Current time 79.20000000000059
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.42734624212324956
+Current cycle 397
+
+Current time 79.40000000000059
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7020190605773944
+Current cycle 398
+
+Current time 79.60000000000059
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7645337371951317
+Current cycle 399
+
+Current time 79.8000000000006
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7201255356582195
+Current cycle 400
+
+Current time 80.0000000000006
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.217176774508005
+Current cycle 401
+
+Current time 80.2000000000006
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3453263642235853
+Current cycle 402
+
+Current time 80.4000000000006
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.08385456636550737
+Current cycle 403
+
+Current time 80.6000000000006
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6807226797197441
+Current cycle 404
+
+Current time 80.80000000000061
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9769434686022479
+Current cycle 405
+
+Current time 81.00000000000061
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8046712229113632
+Current cycle 406
+
+Current time 81.20000000000061
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6219724057517768
+Current cycle 407
+
+Current time 81.40000000000062
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.042877869438569416
+Current cycle 408
+
+Current time 81.60000000000062
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.37739495932970657
+Current cycle 409
+
+Current time 81.80000000000062
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.06409534934314698
+Current cycle 410
+
+Current time 82.00000000000063
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4904146544882344
+Current cycle 411
+
+Current time 82.20000000000063
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6562549686204223
+Current cycle 412
+
+Current time 82.40000000000063
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5140730671522586
+Current cycle 413
+
+Current time 82.60000000000063
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7239560737142124
+Current cycle 414
+
+Current time 82.80000000000064
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.43397573677709667
+Current cycle 415
+
+Current time 83.00000000000064
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3277228040586143
+Current cycle 416
+
+Current time 83.20000000000064
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7875687647993023
+Current cycle 417
+
+Current time 83.40000000000065
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5581059100401532
+Current cycle 418
+
+Current time 83.60000000000065
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.575991256571915
+Current cycle 419
+
+Current time 83.80000000000065
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6005683539252434
+Current cycle 420
+
+Current time 84.00000000000065
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.2902100109124459
+Current cycle 421
+
+Current time 84.20000000000066
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5985436648556436
+Current cycle 422
+
+Current time 84.40000000000066
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7036239082080316
+Current cycle 423
+
+Current time 84.60000000000066
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9655977099000819
+Current cycle 424
+
+Current time 84.80000000000067
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9961889696396786
+Current cycle 425
+
+Current time 85.00000000000067
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7800701086977501
+Current cycle 426
+
+Current time 85.20000000000067
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.598162684309026
+Current cycle 427
+
+Current time 85.40000000000067
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.11366842065003302
+Current cycle 428
+
+Current time 85.60000000000068
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.45734959704350875
+Current cycle 429
+
+Current time 85.80000000000068
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5721020055224926
+Current cycle 430
+
+Current time 86.00000000000068
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8657633276158491
+Current cycle 431
+
+Current time 86.20000000000068
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5683789727661334
+Current cycle 432
+
+Current time 86.40000000000069
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.05360375005951279
+Current cycle 433
+
+Current time 86.60000000000069
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.40846813977535323
+Current cycle 434
+
+Current time 86.8000000000007
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3867459048505807
+Current cycle 435
+
+Current time 87.0000000000007
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.02895537550858851
+Current cycle 436
+
+Current time 87.2000000000007
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6064098707122553
+Current cycle 437
+
+Current time 87.4000000000007
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.329013479863824
+Current cycle 438
+
+Current time 87.6000000000007
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5958386970767579
+Current cycle 439
+
+Current time 87.80000000000071
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.46910649250651604
+Current cycle 440
+
+Current time 88.00000000000071
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.563458921451336
+Current cycle 441
+
+Current time 88.20000000000071
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9188117851223612
+Current cycle 442
+
+Current time 88.40000000000072
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.0868079633809552
+Current cycle 443
+
+Current time 88.60000000000072
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.27884054564365535
+Current cycle 444
+
+Current time 88.80000000000072
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.11620880097319286
+Current cycle 445
+
+Current time 89.00000000000072
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9165760936854723
+Current cycle 446
+
+Current time 89.20000000000073
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6208408738808796
+Current cycle 447
+
+Current time 89.40000000000073
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9649286639331465
+Current cycle 448
+
+Current time 89.60000000000073
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.44229879782400683
+Current cycle 449
+
+Current time 89.80000000000074
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7322558157218697
+Current cycle 450
+
+Current time 90.00000000000074
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.1774009305199442
+Current cycle 451
+
+Current time 90.20000000000074
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6056928417128791
+Current cycle 452
+
+Current time 90.40000000000074
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6812010803886441
+Current cycle 453
+
+Current time 90.60000000000075
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9142900453574848
+Current cycle 454
+
+Current time 90.80000000000075
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3027832522377898
+Current cycle 455
+
+Current time 91.00000000000075
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9969638844564098
+Current cycle 456
+
+Current time 91.20000000000076
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3200711242663138
+Current cycle 457
+
+Current time 91.40000000000076
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.49361229212052726
+Current cycle 458
+
+Current time 91.60000000000076
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.02702718439268348
+Current cycle 459
+
+Current time 91.80000000000076
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.1573081933501126
+Current cycle 460
+
+Current time 92.00000000000077
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8766632217488576
+Current cycle 461
+
+Current time 92.20000000000077
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4222406344531675
+Current cycle 462
+
+Current time 92.40000000000077
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5025711808860504
+Current cycle 463
+
+Current time 92.60000000000078
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9927158951454627
+Current cycle 464
+
+Current time 92.80000000000078
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.47980701317560204
+Current cycle 465
+
+Current time 93.00000000000078
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.2826826128493213
+Current cycle 466
+
+Current time 93.20000000000078
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8224176972104225
+Current cycle 467
+
+Current time 93.40000000000079
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5893312660763369
+Current cycle 468
+
+Current time 93.60000000000079
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.6557551715032901
+Current cycle 469
+
+Current time 93.8000000000008
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.2648037585879126
+Current cycle 470
+
+Current time 94.0000000000008
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7635513631416277
+Current cycle 471
+
+Current time 94.2000000000008
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.10507197760247611
+Current cycle 472
+
+Current time 94.4000000000008
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3230188202084122
+Current cycle 473
+
+Current time 94.6000000000008
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.23640311795817182
+Current cycle 474
+
+Current time 94.80000000000081
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9193428751088009
+Current cycle 475
+
+Current time 95.00000000000081
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.2320508431831142
+Current cycle 476
+
+Current time 95.20000000000081
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9284938986138591
+Current cycle 477
+
+Current time 95.40000000000082
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5189094459225183
+Current cycle 478
+
+Current time 95.60000000000082
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3799567996506614
+Current cycle 479
+
+Current time 95.80000000000082
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.003082916361011101
+Current cycle 480
+
+Current time 96.00000000000082
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.28433670910558617
+Current cycle 481
+
+Current time 96.20000000000083
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.8878649471047363
+Current cycle 482
+
+Current time 96.40000000000083
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5614424194683479
+Current cycle 483
+
+Current time 96.60000000000083
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7608749782250604
+Current cycle 484
+
+Current time 96.80000000000084
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.706692499338248
+Current cycle 485
+
+Current time 97.00000000000084
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.29462536855818267
+Current cycle 486
+
+Current time 97.20000000000084
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.4059038967931987
+Current cycle 487
+
+Current time 97.40000000000084
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.36735471198029845
+Current cycle 488
+
+Current time 97.60000000000085
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.5950455872832181
+Current cycle 489
+
+Current time 97.80000000000085
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.966144344223689
+Current cycle 490
+
+Current time 98.00000000000085
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.23036505001000418
+Current cycle 491
+
+Current time 98.20000000000086
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.06936958447581731
+Current cycle 492
+
+Current time 98.40000000000086
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.7023050448352246
+Current cycle 493
+
+Current time 98.60000000000086
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.27999973955160584
+Current cycle 494
+
+Current time 98.80000000000086
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9717618668633426
+Current cycle 495
+
+Current time 99.00000000000087
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3923733572586352
+Current cycle 496
+
+Current time 99.20000000000087
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.45200638371389523
+Current cycle 497
+
+Current time 99.40000000000087
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9026460369689803
+Current cycle 498
+
+Current time 99.60000000000088
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.9303350496932112
+Current cycle 499
+
+Current time 99.80000000000088
+
+Current state 0
+
+Compute hopping from state 0 to state 1
+k, gmat, rand_num 0 0.0 0.3780533547218907
