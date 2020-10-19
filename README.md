@@ -56,4 +56,6 @@ The unit tests can be run by invoking the following command in the top-level dir
 python -m unittest discover -v
 ```
 
+## Documentation
 
+(https://mowgliamu.github.io/SurfaceHopping)
