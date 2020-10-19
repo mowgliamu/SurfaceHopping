@@ -9,7 +9,7 @@ Currently, standard decoherence-corrected FSSH is implemented with momentum adju
 - python3
 - numpy
 - scipy
-- autograd (automatic differentiation. Install using ```pip install autograd ``)
+- autograd (automatic differentiation. Install using ```pip install autograd ```)
 
 If your system is running default python2, you can install python3 alongside it and make use of virtual enrionment. This can be easily done by Anaconda distribution, for example. 
 
