@@ -45,7 +45,7 @@ md_data
 populations
 ```
 
-The main output file (output_sh_dyn) keeps track of hopping and one can see this by doing ``` grep Hopping output_sh_dyn_1`` (case sensitive). The md_data file contains all the relevant information on dynamics as a function of time. The populations file writes all the electronic state populations.
+The main output file (output_sh_dyn) keeps track of hopping and one can see this by doing ``` grep Hopping output_sh_dyn_1``` (case sensitive). The md_data file contains all the relevant information on dynamics as a function of time. The populations file writes all the electronic state populations.
 
 
 ## Running the tests
