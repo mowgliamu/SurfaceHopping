@@ -58,4 +58,4 @@ python -m unittest discover -v
 
 ## Documentation
 
-(https://mowgliamu.github.io/SurfaceHopping)
+https://mowgliamu.github.io/SurfaceHopping
