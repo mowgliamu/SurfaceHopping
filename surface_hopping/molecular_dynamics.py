@@ -1,3 +1,8 @@
+# @Author: Prateek Goel
+# @Date: 10/10/2020
+# @Email: prateik.goel@gmail.com
+# @Last modified by: Prateek
+
 import random
 import sys
 
