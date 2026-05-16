@@ -1,5 +1,0 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-
-# Ignore the pyc files
-*.pyc
