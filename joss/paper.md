@@ -13,7 +13,7 @@ authors:
     orcid: 0000-0003-4084-7655
     affiliation: 1
 affiliations:
-  - name: To be filled in
+  - name: Independent Researcher
     index: 1
 date: 15 May 2026
 bibliography: paper.bib
