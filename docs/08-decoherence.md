@@ -58,9 +58,11 @@ the surfaces (larger $|E_i - E_j|$), the steeper the force difference,
 the faster the separation again.
 
 The Granucci–Persico formula combines both effects:
+
 $$
 \tau_{ij} = \frac{\hbar}{|E_i - E_j|}\left(1 + \frac{C}{T_\mathrm{kin}}\right),
 $$
+
 where $T_\mathrm{kin}$ is the nuclear kinetic energy and $C$ is a
 small, fitted "kinetic-energy floor" parameter that keeps $\tau_{ij}$
 finite when $T_\mathrm{kin}$ is small. Truhlar and collaborators

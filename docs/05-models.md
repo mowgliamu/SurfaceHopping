@@ -116,16 +116,20 @@ In words:
 
 `LinearVibronicCoupling` uses *dimensionless mass-frequency-weighted
 normal coordinates*:
+
 $$
 Q_\alpha = \sqrt{\frac{m_\alpha \omega_\alpha}{\hbar}}\, q_\alpha,
 $$
+
 where $q_\alpha$ is the displacement in atomic units of length. In
 these coordinates the harmonic potential is $\tfrac{1}{2}\omega_\alpha Q_\alpha^{2}$
 (notice: $\omega$, not $\omega^{2}$). The effective classical mass per
 dimensionless coordinate works out to
+
 $$
 m_\mathrm{eff}^{(\alpha)} = \frac{\hbar}{\omega_\alpha},
 $$
+
 which is what `LinearVibronicCoupling.__post_init__` sets:
 `masses = 1 / frequencies`. **Wigner ground-state widths in these
 coordinates are $\sigma_Q = \sigma_P = 1/\sqrt{2}$ for every mode**,

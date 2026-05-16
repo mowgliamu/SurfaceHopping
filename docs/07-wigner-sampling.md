@@ -13,14 +13,18 @@ photochemistry-around-FC the harmonic approximation is standard.
 For a one-dimensional harmonic oscillator with mass $m$ and angular
 frequency $\omega$ in the ground vibrational state, the Wigner
 distribution is the Gaussian
+
 $$
 W(q, p) = \frac{1}{\pi \hbar}\exp\left[-\frac{p^{2}}{m \hbar \omega} - \frac{m \omega q^{2}}{\hbar}\right].
 $$
+
 Its $q$- and $p$-marginals are Gaussian with standard deviations
+
 $$
 \sigma_q = \sqrt{\frac{\hbar}{2 m \omega}}, \qquad
 \sigma_p = \sqrt{\frac{m \hbar \omega}{2}}.
 $$
+
 The product $\sigma_q \sigma_p = \hbar/2$ saturates the Heisenberg
 inequality, as expected for the HO ground state.
 
@@ -62,12 +66,14 @@ The Wigner widths above contain $m$ in *both* the position factor
 ($\sigma_q$) and the momentum factor ($\sigma_p$). With $m = 2000$
 (roughly hydrogen) and $\omega = 0.01$ Hartree, the correct widths in
 atomic units are
+
 $$
 \sigma_q = \sqrt{\hbar / (2 \cdot 2000 \cdot 0.01)} = 0.158, \qquad
 \sigma_p = \sqrt{2000 \cdot 0.01 / 2} = 3.16.
 $$
 
 Now suppose you forget the mass in both formulae (the original bug):
+
 $$
 \sigma_q^{\text{wrong}} = \sqrt{\hbar / 2\omega} = 7.07, \qquad
 \sigma_p^{\text{wrong}} = \sqrt{\omega / 2} = 0.071.
@@ -93,11 +99,13 @@ mass-frequency-weighted normal coordinates*
 $Q_\alpha = \sqrt{m_\alpha\omega_\alpha/\hbar}\,q_\alpha$ and the
 effective mass is $m_\mathrm{eff} = \hbar/\omega_\alpha$. Plugging into
 $\sigma_q = \sqrt{\hbar/(2 m_\mathrm{eff} \omega_\alpha)}$:
+
 $$
 \sigma_Q = \sqrt{\frac{\hbar}{2 \cdot (\hbar/\omega) \cdot \omega}} = \frac{1}{\sqrt{2}},
 \qquad
 \sigma_P = \frac{1}{\sqrt{2}}.
 $$
+
 **Both widths are $1/\sqrt{2}$ for every mode, independent of the
 frequency.** This is a nice consequence of the dimensionless choice —
 the ground-state Wigner blob is an isotropic Gaussian in

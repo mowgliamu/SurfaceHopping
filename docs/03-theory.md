@@ -56,6 +56,7 @@ sandwiched between adiabatic eigenstates. By Hellmann–Feynman:
 $$
 \frac{\partial E_i}{\partial x_k} = T_{iik},
 $$
+
 $$
 \mathbf{d}_{ij}^{(k)} = \frac{T_{ijk}}{E_j - E_i} \quad (i \neq j).
 $$
@@ -80,9 +81,11 @@ and velocity:
 ### Nuclear EOM
 
 Newton's equations on the active surface:
+
 $$
 m_k \ddot{Q}_k = -\frac{\partial E_s}{\partial Q_k}.
 $$
+
 We integrate this with velocity Verlet, which is symplectic and so
 conserves energy on average between hops (drift is purely from the
 discrete hops themselves; see momentum rescaling below).
@@ -92,18 +95,24 @@ discrete hops themselves; see momentum rescaling below).
 The amplitudes evolve under the time-dependent Schrödinger equation in
 the adiabatic basis, with the nuclear velocity coupling adiabatic
 states through their NACs:
+
 $$
 i\hbar \, \dot{c}_i = E_i \, c_i - i\hbar \sum_j (\mathbf{v} \cdot \mathbf{d}_{ij}) \, c_j.
 $$
+
 Define the generator
+
 $$
 G_{ij} = -\frac{i E_i}{\hbar} \delta_{ij} - \mathbf{v} \cdot \mathbf{d}_{ij}.
 $$
+
 Then $\dot{\mathbf{c}} = \mathbf{G} \mathbf{c}$, and we propagate over a
 nuclear step $\Delta t$ by exact matrix exponential:
+
 $$
 \mathbf{c}(t + \Delta t) = e^{\mathbf{G}\,\Delta t} \, \mathbf{c}(t).
 $$
+
 This is `jax.scipy.linalg.expm(G * dt) @ coeffs` in the code. It is
 exact for constant $\mathbf{G}$ over the step (we hold the NACs and
 velocity fixed across $[t, t+\Delta t]$). Higher-order integrators that
@@ -124,10 +133,12 @@ typical photochemistry problems.
 Tully's central result: if you ask "what is the smallest rate of
 $i \to j$ hops in the ensemble that keeps the fraction of trajectories
 on state $j$ equal to $\langle |c_j|^2 \rangle$?", you get
+
 $$
 P_{i \to j}(t \to t + \Delta t) = \max\!\left\{0,\;
 \frac{2\,\Delta t \, \mathrm{Re}\!\left[\rho_{ij}^{*}\,(\mathbf{v} \cdot \mathbf{d}_{ij})\right]}{\rho_{ii}}\right\},
 $$
+
 where $\rho_{ij} = c_i c_j^{*}$ is the (one-trajectory) density matrix.
 The numerator is the flux of population *out* of state $i$ along the
 $i$–$j$ coupling channel; dividing by $\rho_{ii}$ converts it to a
@@ -178,15 +189,19 @@ must be conserved. The classical kinetic energy must absorb the change
 in potential energy $\Delta E = E_i - E_j$ (positive when going *down*,
 so kinetic energy increases). Tully prescribes that the rescaling is
 applied **along the NAC direction**:
+
 $$
 \mathbf{v}_\mathrm{new} = \mathbf{v} - \gamma\,\frac{\mathbf{d}_{ij}}{\mathbf{m}},
 $$
+
 with $\gamma$ found by solving the quadratic from energy conservation:
+
 $$
 \tfrac{1}{2}\sum_k \frac{d_{ij,k}^{2}}{m_k}\,\gamma^{2}
 \;-\;(\mathbf{v}\cdot\mathbf{d}_{ij})\,\gamma
 \;-\;\Delta E = 0.
 $$
+
 This has two real roots when the discriminant is non-negative; Tully's
 prescription (refined by Hammes-Schiffer & Tully 1994) is to take the
 root closer to zero (minimal velocity perturbation).
@@ -199,9 +214,11 @@ doesn't have enough kinetic energy along the NAC to reach. This is a
 **frustrated hop**. The trajectory stays on its original state, but
 Truhlar's 2002 prescription is to **reverse** the velocity component
 along the NAC:
+
 $$
 \mathbf{v}_\mathrm{new} = \mathbf{v} - \frac{2(\mathbf{v}\cdot\mathbf{d}_{ij})}{\sum_k d_{ij,k}^{2}/m_k}\,\frac{\mathbf{d}_{ij}}{\mathbf{m}}.
 $$
+
 This reflects the trajectory back toward the coupling region for
 another chance at a successful hop on a later step, and gives better
 detailed balance than simply "do nothing". It is what `surfacehop_jax`
@@ -253,12 +270,14 @@ Two failure modes to keep in mind:
 A correctly implemented FSSH satisfies the **internal-consistency**
 property: the fraction of trajectories on adiabatic state $j$ at time
 $t$ should equal the ensemble-averaged $|c_j(t)|^2$:
+
 $$
 \frac{1}{N_\mathrm{traj}} \sum_{\alpha=1}^{N_\mathrm{traj}}
 \mathbf{1}[s^{(\alpha)}(t) = j]
 \;\overset{?}{=}\;
 \frac{1}{N_\mathrm{traj}} \sum_\alpha |c_j^{(\alpha)}(t)|^{2}.
 $$
+
 This is the whole point of the fewest-switches construction. If your
 trajectory fraction is systematically far from the average $|c|^2$,
 something is wrong:
